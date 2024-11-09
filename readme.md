@@ -41,7 +41,7 @@ git clone https://github.com/riccardo-florio/server_telecomando.git
    Su **Windows**:
 
    ```shell
-   venv\Scripts\activate
+   venv\Scripts\Activate.ps1
    ```
 
    Su **Linux/MacOS**:

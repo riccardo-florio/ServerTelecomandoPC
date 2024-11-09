@@ -10,8 +10,9 @@ __pycache__/
 # File di log
 *.log
 
-# Build
+# Build e distribuzione
 build/
+dist/
 *.egg-info/
 
 # Cartella 'old'
