@@ -1,0 +1,29 @@
+# Ambiente virtuale
+venv/
+env/
+
+# Cache di Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File di log
+*.log
+
+# Build
+build/
+*.egg-info/
+
+# Cartella 'old'
+old/
+
+# File di specifica di PyInstaller
+*.spec
+
+# File del sistema operativo
+.DS_Store
+Thumbs.db
+
+# File temporanei o di backup
+*~
+*.tmp

@@ -1,0 +1,7 @@
+pyautogui==0.9.53
+comtypes==1.1.14
+pycaw==20181226
+customtkinter==5.1.3
+Pillow==9.2.0
+pystray==0.19.4
+pywin32==305
